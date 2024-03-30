@@ -5,9 +5,9 @@
 
 
 
-🔭 I’m currently working on AI4I projects . 
-🌱 I’m currently learning Fine Tuning LLM's
-💬 Ask me about Data Science, ML & AI
+- 🔭 I’m currently working on AI4I projects . 
+- 🌱 I’m currently learning Fine Tuning LLM's
+- 💬 Ask me about Data Science, ML & AI
 <!--
 **dmarinova1/dmarinova1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
